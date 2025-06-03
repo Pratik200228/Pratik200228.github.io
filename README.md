@@ -1,1 +1,3 @@
-# Pratik200228.github.io
+I’m a senior pursuing a Bachelor of Science in Computer Science at the University of Louisiana at Monroe (expected May 2026). I have a strong foundation in data structures, algorithms, and front-end development. I currently serve as Vice President – Cultural Affairs for the Nepalese Student Association, where I lead event planning, design, and digital communication. I’m proficient in Java and React.js, and I enjoy collaborating on creative, high-impact projects.
+
+Outside of class, I design UI mockups for hackathons, create engaging social-media campaigns, and explore new tools in Figma and Adobe Creative Suite.
